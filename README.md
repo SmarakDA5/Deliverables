@@ -1,8 +1,3 @@
-# AlgoForge Zero-to-Hero DSA Sheet (Checklist)
-
-> **Note:** Always remember why you started. All the very best.
-> **Contact:** [algoforge.co](https://algoforge.co) | [Telegram](https://t.me/samratIsLive)
-
 ## Introduction to Coding Language
 - [ ] Data types (Primitive and non-primitive) – [W3Schools Java Data Types](https://www.w3schools.com/java/java_data_types.asp)
 - [ ] How to take input output – [W3Schools Java User Input](https://www.w3schools.com/java/java_user_input.asp)
