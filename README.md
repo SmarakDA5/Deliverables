@@ -682,23 +682,25 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 0 | 0 | 0 | 0 |
+| 1 | 1 | 0 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 0 days | 0 |
+| 1 days | 1 days | 1 |
 
 | Date | Problems |
 | --- | ---: |
-| - | 0 |
+| 2026-09-29 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| - | 0 | 0% |
+| Bracket Sequences | 1 | 100% |
+| Stack | 1 | 100% |
+| String | 1 | 100% |
 
 ## Topics
 
@@ -709,6 +711,7 @@
 | [Binary Search](Topics/binary-search/) | 0 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Graph](Topics/graph/) | 0 |
@@ -717,5 +720,6 @@
 | [Linked List](Topics/linked-list/) | 0 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Sorting](Topics/sorting/) | 0 |
-| [Stack](Topics/stack/) | 0 |
+| [Stack](Topics/stack/) | 1 |
+| [String](Topics/string/) | 1 |
 <!---LeetHub Summary End-->
